@@ -1,0 +1,73 @@
+/* .app{
+    border-spacing: 50px;
+    display: inline-block
+    
+}
+.mytable-travel-deatals{
+    background : yellow;
+    
+    
+} */
+body{
+    background-image: url(" http://wallpaperhubs.com/wp-content/uploads/2019/02/Clear-Sky-beautiful-Clouds-Desktop-Wallpaper-Download.jpg"); 
+    background-repeat: no-repeat;
+   background-size: cover;
+    
+}
+.app{
+    font-size:15px;
+    /* display: flex; justify-content: space-around; */
+    display: flex; flex-direction: row; 
+    margin: 20px;
+    flex-wrap: wrap;
+   
+   
+} 
+div>div{
+    background-color: yellow;
+    width: 420px;
+    height: 300px;
+    display: inline-block;
+padding: 20px;
+border:dashed red;
+overflow: auto;
+margin: 20px;
+}
+
+table{
+    width: 100%;
+    
+
+}
+section > div {
+    background-color: yellow;
+    width: 420x;
+    height: 300px;
+    display: inline-block;
+padding: 20px;
+border:dashed red;
+overflow: auto;
+margin: 20px;
+}
+ 
+#theFindButton{
+    background-image: url("https://cdn2.scratch.mit.edu/get_image/gallery/1778374_200x130.png");
+     background-repeat: no-repeat;
+    background-size: cover;
+    width: 1in;
+    height: 1in;
+    border-radius: 50%;
+    
+
+}
+#searchButton{
+    background-image: url("https://comps.canstockphoto.co.uk/search-red-round-symbol-isolated-stock-photo_csp57026943.jpg");
+    background-repeat: no-repeat;
+   background-size: cover;
+   width: 1in;
+   height: 1in;
+   border-radius: 50%;
+
+}
+
+/* https://i.pinimg.com/originals/95/dc/a4/95dca49148e94615e9cd389e2d69f6e9.gif */
