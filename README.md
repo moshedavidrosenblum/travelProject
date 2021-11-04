@@ -7,11 +7,11 @@
 I'm Kunal Raghav, I'm a software engineer 👨‍💻 who is passionate about mobile technologies and open source. I'm also a self procliamed graphic designer and internet surfer 
 🏄‍♂️. 
 
-- 🔭 I’m currently working on Android Apps
-- 🌱 I’m currently learning JavaScript
+- 🔭 I’m currently working in innoviz
+- 🌱 I’m currently learning in sela
 - 💬 Ask me about: tech, memes, anime
 - 😄 Pronouns: he/him
--  ⚡ Languages: Java, Kotlin, Python3
+-  ⚡ Languages:  python
 
 
 > El Psy Kongroo
