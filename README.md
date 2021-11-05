@@ -34,6 +34,4 @@ Here are some ideas to get you started:
 -->
 
 -----
-Credits: [Kunal Raghav](https://github.com/KunalRaghav)
 
-Last Edited on: 12/12/2020
