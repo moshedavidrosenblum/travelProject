@@ -10,7 +10,7 @@ I'm Moshe Rosenblum I'm a software engineer 👨‍💻 who is passionate about 
 -  ⚡ Languages:  python
 
 
-> El Psy Kongroo
+
 
 
 
